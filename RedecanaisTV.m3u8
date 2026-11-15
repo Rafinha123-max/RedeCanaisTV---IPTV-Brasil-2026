@@ -6,6 +6,8 @@ https://videotourl.com/videos/1792785408777-3304e5be-8291-40be-ab26-b9001dd894bf
 
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/tvcultura.png",TV Cultura
 http://138.204.86.4:8080/TV_CULTURA_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/tvcamara.png",TV Câmara
+http://138.204.86.4:8080/TV_CAMARA/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://cdn.phototourl.com/member/2026-11-11-e6582be6-1ec5-401b-83c2-49c955fb7e06.png",RIT
 http://138.204.86.4:8080/RIT/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/redevida.png",Rede Vida HD
