@@ -8,7 +8,7 @@ https://videotourl.com/videos/1792785408777-3304e5be-8291-40be-ab26-b9001dd894bf
 http://138.204.86.4:8080/TV_CULTURA_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/tvcamara.png",TV Câmara
 http://138.204.86.4:8080/TV_CAMARA/index.m3u8
-#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://cdn.phototourl.com/member/2026-11-11-e6582be6-1ec5-401b-83c2-49c955fb7e06.png",RIT
+#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.sanishtech.com/u/35cfceb83274b0774a6f1cf06973c2ad.png",RIT
 http://138.204.86.4:8080/RIT/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/redevida.png",Rede Vida HD
 http://138.204.86.4:8080/REDE_VIDA_HD/index.m3u8
@@ -34,7 +34,7 @@ http://138.204.86.4:8080/CNT_HD/index.m3u8
 http://138.204.86.4:8080/REDE_TV_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/xsports.png",Ideal TV HD
 http://170.83.16.50:80/X_SPORTS/index.m3u8
-#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://cdn.phototourl.com/member/2026-11-11-90f9f68c-3bfe-4ec1-9d73-e1eebc9dd019.png",Rede Brasil
+#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.sanishtech.com/u/3cb4c680599a54b5e46c3d29a35add64.png",Rede Brasil
 http://138.204.86.4:8080/REDE_BRASIL_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/tvpaieterno.png",TV Pai Eterno
 http://186.219.52.187:80/pai_eterno/index.m3u8
