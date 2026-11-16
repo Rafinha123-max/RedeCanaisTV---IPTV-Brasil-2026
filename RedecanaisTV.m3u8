@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epgontvhdbr.com/,https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz,https://althierestm.github.io/Lista-RadarTV/epg.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://epg.pw/api/epg.xml?channel_id=464902,https://epg.pw/api/epg.xml?channel_id=470898,https://epg.pw/api/epg.xml?channel_id=465038"
+#EXTM3U url-tvg="http://epgontvhdbr.com/,https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz,https://althierestm.github.io/Lista-RadarTV/epg.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://epg.pw/api/epg.xml?channel_id=464902,https://epg.pw/api/epg.xml?channel_id=470898,https://epg.pw/api/epg.xml?channel_id=465038,https://epg.pw/api/epg.xml?channel_id=465345"
 
 
 #EXTINF:-1 group-title="CANAIS: CANAL DO USUÁRIO" tvg-logo="https://pictureurl.com/api/storage/file?key=u%2Fanon%2F86be19ca-82ee-4fc3-b228-20f0f6eea90f-1792680280272.png",CANAL DO USUÁRIO
@@ -70,6 +70,8 @@ http://governosptx.org:80/3llohwk4g9/kwf099q30o/8883.ts?network-caching=3000000
 http://138.204.86.4:8080/DISCOVERY_KIDS_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/nickelodeon.png",Nickelodeon HD
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/nickelodeon.png",Nicktoons HD
+http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/gloob.png",Gloob HD
 http://31.43.191.125:8080/restream/restream/4866
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png",Cartoon Network HD
@@ -140,3 +142,6 @@ http://governosptx.org:80/3llohwk4g9/kwf099q30o/24535.ts?network-caching=3000000
 http://138.204.86.4:8080/TERRA_VIVA_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/fishtv.png",Fish TV
 http://138.204.86.4:8080/FISH_TV_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS: INTERNACIONAIS" tvg-logo="https://img.sanishtech.com/u/f823d14bf8ea3f3b570a93349d0ef3a3.png",ABC National Feed HD
+https://m3usmart4k.gojo45749.workers.dev?id=30805
+#EXTINF:-1 group-title="CANAIS: INTERNACIONAIS" tvg-logo="https://img.sanishtech.com/u/b16f0723d0861ccfec310ef4c615e730.png",Nickelodeon (Pacific) HD
