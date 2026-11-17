@@ -75,19 +75,19 @@ http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/gloob.png",Gloob HD
 https://tody.s25-cloudfront-net.lat/tody/gloob.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png",Cartoon Network HD
-http://138.204.86.4:8080/CARTOON_HD/index.m3u8
+https://tody.s25-cloudfront-net.lat/tody/cartoonnetwork.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/tooncast.png",Tooncast
-http://138.204.86.4:8080/TOONCAST/index.m3u8
+https://tody.s25-cloudfront-net.lat/tody/tooncast.m3u8
 #EXTINF:-1 group-title="CANAIS: DISCOVERY" tvg-logo="https://img.faz-o-eli.online/discoverychannel.png",Discovery Channel HD
 http://138.204.86.4:8080/DISCOVERY_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/tcm.png",TCM
-http://138.204.86.4:8080/TCM_HD/index.m3u8
+https://tody.s25-cloudfront-net.lat/tody/tcm.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/sonychannel.png",Sony Channel HD
-http://138.204.86.4:8080/SONY_HD/index.m3u8
+https://tody.s25-cloudfront-net.lat/tody/sonychannel.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/axn.png",AXN HD
-http://138.204.86.4:8080/AXN_HD/index.m3u8
+https://tody.s25-cloudfront-net.lat/tody/axn.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/warnerchannel.png",Warner Channel HD
-http://138.204.86.4:8080/WARNER_HD/index.m3u8
+https://tody.s25-cloudfront-net.lat/tody/warnerchannel.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/tnt.png",TNT HD
 http://138.204.86.4:8080/TNT_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/space.png",Space HD
