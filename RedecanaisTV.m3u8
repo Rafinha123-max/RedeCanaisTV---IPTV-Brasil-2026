@@ -97,11 +97,11 @@ http://138.204.86.4:8080/SPACE_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere Clubes HD
 http://79.127.238.228:14157/PremiereClubes?network-caching=3000000
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere 2 HD
-https://tody.s25-cloudfront-net.lat/tody/premiere2.m3u8
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9022.ts?network-caching=3000000
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere 3 HD
-https://tody.s25-cloudfront-net.lat/tody/premiere3.m3u8
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/13577.ts?network-caching=3000000
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere 4 HD
-https://tody.s25-cloudfront-net.lat/tody/premiere4.m3u8
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/108295.ts?network-caching=3000000
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/megapix.png",MEGAPIX HD
 https://tody.s25-cloudfront-net.lat/tody/megapix.m3u8
 #EXTINF:-1 group-title="CANAIS: DISCOVERY" tvg-logo="https://img.faz-o-eli.online/tlc.png",TLC HD
