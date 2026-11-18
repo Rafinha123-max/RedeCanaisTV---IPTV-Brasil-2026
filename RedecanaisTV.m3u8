@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="http://epgontvhdbr.com/,https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz,https://althierestm.github.io/Lista-RadarTV/epg.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://epg.pw/api/epg.xml?channel_id=464849,https://epg.pw/api/epg.xml?channel_id=470898,https://epg.pw/api/epg.xml?channel_id=465038,https://epg.pw/api/epg.xml?channel_id=465345"
+#EXTM3U
+#EXT-X-VERSION:3 url-tvg="http://epgontvhdbr.com/,https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz,https://althierestm.github.io/Lista-RadarTV/epg.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://epg.pw/api/epg.xml?channel_id=464849,https://epg.pw/api/epg.xml?channel_id=470898,https://epg.pw/api/epg.xml?channel_id=465038,https://epg.pw/api/epg.xml?channel_id=465345"
 
 
 #EXTINF:-1 group-title="CANAIS: CANAL DO USUÁRIO" tvg-logo="https://pictureurl.com/api/storage/file?key=u%2Fanon%2F86be19ca-82ee-4fc3-b228-20f0f6eea90f-1792680280272.png",CANAL DO USUÁRIO
@@ -77,12 +78,14 @@ https://tody.s25-cloudfront-net.lat/tody/gloob.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png",Cartoon Network HD
 http://138.204.86.4:8080/CARTOON_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/tooncast.png",Tooncast
+#EXTVLCOPT:aspect-ratio=4:3
 http://138.204.86.4:8080/TOONCAST/index.m3u8
 #EXTINF:-1 group-title="CANAIS: DISCOVERY" tvg-logo="https://img.faz-o-eli.online/discoverychannel.png",Discovery Channel HD
 http://138.204.86.4:8080/DISCOVERY_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/tcm.png",TCM
 http://138.204.86.4:8080/TCM_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/sonychannel.png",Sony Channel HD
+#EXTVLCOPT:aspect-ratio=4:3
 http://138.204.86.4:8080/SONY_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/axn.png",AXN HD
 http://138.204.86.4:8080/AXN_HD/index.m3u8
