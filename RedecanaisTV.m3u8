@@ -51,9 +51,9 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/9
 #EXTINF:-1 group-title="CANAIS: VARIEDADES" tvg-logo="https://img.faz-o-eli.online/off.png",OFF HD
 http://31.43.191.125:8080/restream/restream/4885
 #EXTINF:-1 group-title="CANAIS: SPORTV" tvg-logo="https://img.faz-o-eli.online/sportv3.png",SporTV 3
-https://tody.s25-cloudfront-net.lat/tody/sportv3.m3u8
+http://64.31.23.207:80/59471019/60849037/3460206.m3u8?network-caching=3000000
 #EXTINF:-1 group-title="CANAIS: SPORTV" tvg-logo="https://img.faz-o-eli.online/sportv2.png",SporTV 2 HD
-https://tody.s25-cloudfront-net.lat/tody/sportv2.m3u8
+
 #EXTINF:-1 group-title="CANAIS: SPORTV" tvg-logo="https://img.faz-o-eli.online/sportv.png",SporTV HD
 http://64.31.23.207:80/59471019/60849037/3460200.m3u8?network-caching=3000000
 #EXTINF:-1 group-title="CANAIS: NOTÍCIAS" tvg-logo="https://img.faz-o-eli.online/globonews.png",Globo News HD
