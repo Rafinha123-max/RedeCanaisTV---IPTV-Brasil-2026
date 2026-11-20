@@ -5,41 +5,41 @@
 https://videotourl.com/videos/1795103571217-c180cf78-4065-4491-bd85-3e156ce3fc8a.mp4
 
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/tvcultura.png",TV Cultura
-https://cdn-sp2.satlabscloud.com.br/TV_CULTURA_HD/index.m3u8
+http://138.204.86.4:8080/TV_CULTURA_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/tvcamara.png",TV Câmara
 http://138.204.86.4:8080/TV_CAMARA/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.sanishtech.com/u/35cfceb83274b0774a6f1cf06973c2ad.png",RIT
 http://138.204.86.4:8080/RIT/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/redevida.png",Rede Vida HD
-https://cdn-sp2.satlabscloud.com.br/REDE_VIDA_HD/index.m3u8
+http://138.204.86.4:8080/REDE_VIDA_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/record.png",Record HD
-https://cdn-sp2.satlabscloud.com.br/RECORD/tracks-v1a1/mono.ts.m3u8
+http://138.204.86.4:8080/RECORD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/record.png",Record TV Minas HD
-
+https://tody.s25-cloudfront-net.lat/tody/recordmg.m3u8?network-caching=3000000
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/cancaonova.png",Canção Nova
-https://cdn-sp2.satlabscloud.com.br/CANCAO_NOVA_HD/index.m3u8
+http://138.204.86.4:8080/CANCAO_NOVA_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/sbt.png",SBT HD
-https://cdn-sp2.satlabscloud.com.br/SBT_HD/index.m3u8
+http://138.204.86.4:8080/SBT_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/tvaparecida.png",TV Aparecida
 http://138.204.86.4:8080/TV_APARECIDA_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/globo.png",Globo SP HD
-https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/globo.png",Globo RJ HD
+http://138.204.86.4:8080/GLOBO_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/globo.png",Globo Belo Horizonte HD
-
+https://tody.s25-cloudfront-net.lat/tody/globomg.m3u8?network-caching=3000000
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/band.png",Band HD
-https://cdn-sp2.satlabscloud.com.br/BAND_HD/index.m3u8
+http://138.204.86.4:8080/BAND_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/cnt.png",CNT
 http://138.204.86.4:8080/CNT_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/redetv.png",RedeTV! HD
-https://cdn-sp2.satlabscloud.com.br/REDE_TV_HD/index.m3u8
+http://138.204.86.4:8080/REDE_TV_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/xsports.png",Ideal TV HD
 http://170.83.16.50:80/X_SPORTS/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.sanishtech.com/u/3cb4c680599a54b5e46c3d29a35add64.png",Rede Brasil
-https://cdn-sp2.satlabscloud.com.br/REDE_BRASIL_HD/index.m3u8
+http://138.204.86.4:8080/REDE_BRASIL_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/tvpaieterno.png",TV Pai Eterno
 http://186.219.52.187:80/pai_eterno/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/recordnews.png",Record News HD
-https://cdn-sp2.satlabscloud.com.br/RECORD_NEWS_HD/index.m3u8
+http://138.204.86.4:8080/RECORD_NEWS_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/tvbrasil.png",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.sanishtech.com/u/b4f38d429b16a0f731a7a5ae4b38c011.png",Canal Gov HD
@@ -53,7 +53,7 @@ http://31.43.191.125:8080/restream/restream/4885
 #EXTINF:-1 group-title="CANAIS: SPORTV" tvg-logo="https://img.faz-o-eli.online/sportv3.png",SporTV 3
 http://64.31.23.207:80/59471019/60849037/3460206.m3u8?network-caching=3000000
 #EXTINF:-1 group-title="CANAIS: SPORTV" tvg-logo="https://img.faz-o-eli.online/sportv2.png",SporTV 2 HD
-
+https://tody.s25-cloudfront-net.lat/tody/sportv2.m3u8?network-caching=3000000
 #EXTINF:-1 group-title="CANAIS: SPORTV" tvg-logo="https://img.faz-o-eli.online/sportv.png",SporTV HD
 http://64.31.23.207:80/59471019/60849037/3460200.m3u8?network-caching=3000000
 #EXTINF:-1 group-title="CANAIS: NOTÍCIAS" tvg-logo="https://img.faz-o-eli.online/globonews.png",Globo News HD
@@ -71,7 +71,7 @@ http://138.204.86.4:8080/DISCOVERY_KIDS_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/nickelodeon.png",Nickelodeon HD
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/nickelodeon.png",Nicktoons HD
-http://41.205.93.154/NICKTOONS/index.m3u8
+
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/gloob.png",Gloob HD
 https://tody.s25-cloudfront-net.lat/tody/gloob.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png",Cartoon Network HD
